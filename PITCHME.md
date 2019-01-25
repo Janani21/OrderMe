@@ -1,10 +1,7 @@
----?color=linear-gradient(to right, #c02425, #f0cb35) @title[OrderMe]
+# Order Me
 
-@snap[west text-25 text-bold text-white]
-![Image of Order Me](https://github.com/Janani21/OrderMe/blob/master/template/img/logo.png) Order Me
-@snapend
+`Order Me` is a product for Restaurants/Hotels to manage the food orders.
 
-@snap[south-west byline text-white text-06] `Order Me` is a product for Restaurants/Hotels to manage the food orders
 ---
 @title[Overview]
 
@@ -40,7 +37,7 @@ Apps are playing a major role in customizing/enhancing the Freshworks product.
 
 @snapend
 @snap[east span-50]
-![Image of Order Me](?image=template/img/presenter.jpg )
+![Image of Order Me](https://github.com/freshdesk/freshapps_misc/blob/goPro/OrderME/app/order%20me.svg)
 @snapend
 ---
 @title[Scope]
