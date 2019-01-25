@@ -62,17 +62,18 @@ Similarly Freshdesk can be turned into a super product for companies which has P
 @ulend
 
 ---
-@title[Features used]
+@title[Product Features used]
 
-@snap[west span-50]
 ### Product Functionalities Used
 @ul
 - V2 APIs to create/update user and ticket, filter ticket by agent/requester.
 - Dispatcher to auto-assign ticket to group/agent.
 - Custom Ticket Status to match the need.
 @ulend
-@snapend
-@snap[east span-50]
+
+---
+@title[Platform Features used]
+
 ### Developer platform Features Used
 @ul
 - Custom Installation page for collecting company information.
@@ -81,8 +82,6 @@ Similarly Freshdesk can be turned into a super product for companies which has P
 - Request API to create/update tickets, contact.
 - Data persistance to store the user mapping and order details.
 @ulend
-@snapend
-
 ---
 @title[Thank note]
-####Special thanks to Rohit Eddy, Raghuram Periaswamy, Asif Ahmed, Satwik Hebbar AND Developer Platform Team!!!
+Special thanks to Rohit Eddy, Raghuram Periaswamy, Asif Ahmed, Satwik Hebbar AND Developer Platform Team!!!
