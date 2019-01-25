@@ -1,6 +1,6 @@
 # Order.Me
 
-Tired of taking Food Orders on paper. Use `Order.Me`!!
+Tired of taking Food Orders on paper. @color[orange](`Order.Me`)!!
 
 ---
 @title[Overview]
@@ -41,7 +41,7 @@ And building a whole new website or a product is costly.
 @snap[west span-50]
 ### Apps to the rescue
 Apps play a major role in customizing/enhancing Freshworks products.
-`Order.Me` is one such example. It is a Full Page App in the Freshdesk portal to manage orders.
+@color[orange](`Order.Me`) is one such example. It is a Full Page App in the Freshdesk portal to manage orders.
 
 
 @snapend
