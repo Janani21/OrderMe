@@ -44,7 +44,7 @@ Apps are playing a major role in customizing/enhancing the Freshworks product.
 
 @snapend
 @snap[east span-50]
-![Order Me](template/img/orderMe.svg)
+![Order Me](template/img/orderMe.png)
 @snapend
 ---
 @title[Scope]
