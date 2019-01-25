@@ -7,7 +7,7 @@ Tired of taking Food Orders on paper. Use `Order.Me`!!
 
 @snap[west span-50]
 ### What they usually do?  
-Most of the Restaurants/Hotels still use the traditional way of taking orders which is on paper.
+Waiter -> takes order on paper -> Chef
 @snapend
 @snap[east span-50]
 ![Image of Bill book](https://j.gifs.com/zvPxY5.gif)
@@ -24,8 +24,9 @@ This Supply Chain is similar to the Ticket workflow in Freshdesk.
 
 ---
 @title[Customization]
-###  Why?
+
 @snap[west span-50]
+###  Why?
 Being a SaaS product, Freshdesk cannot be customized to meet all needs.
 And building a whole new website or a product is costly.
 
@@ -36,8 +37,9 @@ And building a whole new website or a product is costly.
 
 ---
 @title[Marketplace Apps]
-### How?
+
 @snap[west span-50]
+### How?
 Apps play a major role in customizing/enhancing Freshworks products.
 `Order.Me` is one such example. It is a Full Page App in the Freshdesk portal to manage orders.
 
