@@ -1,13 +1,13 @@
-# Order Me
+# Order.Me
 
-`Order Me` is a product for Restaurants/Hotels to manage the food orders.
+Tired of taking Food Orders on paper. Use `Order.Me`!!
 
 ---
 @title[Overview]
 
 @snap[west span-50]
 ##  Traditional Ordering
-Most of the Restaurants/Hotels still uses the traditional way of taking orders.
+Most of the Restaurants/Hotels still use the traditional way of taking orders which is on paper.
 @snapend
 @snap[east span-50]
 ![Image of Bill book](https://j.gifs.com/zvPxY5.gif)
@@ -26,8 +26,8 @@ This Supply Chain is similar to the Ticket workflow in Freshdesk.
 @title[Customization]
 
 @snap[west span-50]
-But Being a SaaS product, freshdesk cannot be customized to meet all needs.
-And Building all new website or a product is costly.
+Being a SaaS product, Freshdesk cannot be customized to meet all needs.
+And building a whole new website or a product is costly.
 
 @snapend
 @snap[east span-50]
@@ -38,27 +38,27 @@ And Building all new website or a product is costly.
 @title[Marketplace Apps]
 
 @snap[west span-50]
-Apps are playing a major role in customizing/enhancing the Freshworks product.
-`Order Me` is one such example. It is build as a Full Page App in Freshdesk to manage the order.
+Apps play a major role in customizing/enhancing Freshworks products.
+`Order.Me` is one such example. It is a Full Page App in the Freshdesk portal to manage orders.
 
 
 @snapend
 @snap[east span-50]
-![Order Me](template/img/orderMe.png)
+![Order.Me](template/img/orderMe.png)
 @snapend
 ---
 @title[Scope]
 
-Similarly Freshdesk can be turned into a super product for companies which has Production chain like Manufacturing industries, Ecommerce business, etc., 
+Similarly, Freshdesk can be turned into a super product for Manufacturing Industries, Ecommerce business, etc., 
 ---
 @title[App Routes]
 Routes
 @ul
-- Selector : Select the role of the user 
-- Customer_login: Signup/Login page for Customer
-- Menu: select items and place order
-- Tracker: track the order
-- Owner: Cook view
+- Selector Page : To select the user - Visitor or Chef.
+- Visitor Login Page : Signup/Login page for Visitor.
+- Menu Page: Visitor can select items and place the order.
+- Tracker Page: Visitor can track status of the orders.
+- Owner Page: Chef can view the orders placed.
 @ulend
 
 ---
@@ -67,8 +67,8 @@ Routes
 Product Functionalities Used
 @ul
 - V2 APIs to create/update user and ticket, filter ticket by agent/requester.
-- Dispatcher to auto-assign ticket to group/agent.
-- Custom Ticket Status to match the need.
+- Dispatcher to auto-assign ticket to a group & an agent.
+- Custom Ticket Statuses to match the business requirement.
 @ulend
 
 ---
@@ -78,10 +78,10 @@ Developer platform Features Used
 @ul
 - Custom Installation page for collecting company information.
 - 'Full_page_app' placeholder as the website.
-- Few Data APIs(loggedInUser, domainName, etc.,).
-- Request API to create/update tickets, contact.
-- Data persistance to store the user mapping and order details.
+- Few Data APIs (loggedInUser, domainName, etc.,).
+- Request API to create/update tickets and contacts.
+- Data persistence to store the user mapping and the order details.
 @ulend
 ---
 @title[Thank note]
-Special thanks to Rohit Eddy, Raghuram Periaswamy, Asif Ahmed, Satwik Hebbar AND Developer Platform Team!!!
+Special thanks to Raghuram Periaswamy and Asif Ahmed!!!
