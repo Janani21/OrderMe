@@ -48,7 +48,7 @@ Full page Apps are like **a Mask** for the product. @color[orange](`Order.Me`) i
 ---
 @title[Scope]
 ### Our Vision
-![Image of Vision](https://drive.google.com/file/d/1hsBSkcWm2sfsSeSvOzVJYLzDlnvgwuVn/view?usp=sharing)
+![Image of Vision](template/img/vision.png)
 ---
 @title[App Routes]
 How we did it?
