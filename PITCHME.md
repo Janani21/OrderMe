@@ -1,6 +1,6 @@
 # Order.Me
 
-Tired of taking Food Orders on paper. @color[orange](`Order.Me`)!!
+Tired of taking Food Orders on paper. Use @color[orange](`Order.Me`)!!
 
 ---
 @title[Overview]
