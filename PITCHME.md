@@ -1,4 +1,4 @@
-# Order Me
+# ![Image of Freshdesk](?image=template/img/logo.png)Order Me
 
 `Order Me` is a product for Restaurants/Hotels to manage the food orders.
 
@@ -37,7 +37,7 @@ Apps are playing a major role in customizing/enhancing the Freshworks product.
 
 @snapend
 @snap[east span-50]
-![Image of Order Me](image=template/img/presenter.jpg )
+![Image of Order Me](?image=template/img/presenter.jpg )
 @snapend
 ---
 @title[Scope]
