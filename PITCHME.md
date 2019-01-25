@@ -37,7 +37,7 @@ Apps are playing a major role in customizing/enhancing the Freshworks product.
 
 @snapend
 @snap[east span-50]
-![Image of Order Me](https://github.com/freshdesk/freshapps_misc/blob/goPro/OrderME/app/order%20me.svg)
+![Image of Order Me](image=template/img/presenter.jpg )
 @snapend
 ---
 @title[Scope]
