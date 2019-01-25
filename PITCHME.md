@@ -10,7 +10,7 @@ Tired of taking Food Orders on paper. Use `Order.Me`!!
 Waiter -> takes order on paper -> Chef
 @snapend
 @snap[east span-50]
-![Image of Bill book](https://j.gifs.com/zvPxY5.gif)
+![Image of Bill book](https://i.dailymail.co.uk/i/pix/2015/10/13/15/2D5F757400000578-3269275-image-a-95_1444747295686.jpg)
 @snapend
 ---
 @title[Freshdesk]
