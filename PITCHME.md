@@ -26,9 +26,8 @@ This Supply Chain is similar to the Ticket workflow in Freshdesk.
 @title[Customization]
 
 @snap[west span-50]
-###  Possible?
-Being a SaaS product, Freshdesk cannot be customized to meet all needs.
-And building a whole new website or a product is costly.
+###  What we can't do with Freshdesk, we can with Apps
+Building a whole new website or customizing the product in-house is costly.
 
 @snapend
 @snap[east span-50]
@@ -38,20 +37,18 @@ And building a whole new website or a product is costly.
 ---
 @title[Marketplace Apps]
 
-@snap[west span-50]
+@snap[west span-40]
 ### Apps to the rescue
-Apps play a major role in customizing/enhancing Freshworks products.
-@color[orange](`Order.Me`) is one such example. It is a Full Page App in the Freshdesk portal to manage orders.
-
+Full page Apps are like **a Mask** for the product. @color[orange](`Order.Me`) is one such example.
 
 @snapend
-@snap[east span-50]
+@snap[east span-60]
 ![Order.Me](template/img/orderMe.png)
 @snapend
 ---
 @title[Scope]
 ### Our Vision
-Similarly, Freshdesk can be turned into a super product for Manufacturing Industries, Ecommerce business, etc., 
+![Image of Vision](https://drive.google.com/file/d/1hsBSkcWm2sfsSeSvOzVJYLzDlnvgwuVn/view?usp=sharing)
 ---
 @title[App Routes]
 How we did it?
