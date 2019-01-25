@@ -47,7 +47,7 @@ Full page Apps are like **a Mask** for the product. @color[orange](`Order.Me`) i
 @snapend
 ---
 @title[Scope]
-Our Vision
+###Our Vision
 ![Image of Vision](template/img/vision.png)
 ---
 @title[App Routes]
