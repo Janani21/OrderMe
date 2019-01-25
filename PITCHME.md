@@ -8,6 +8,7 @@
 @snap[west span-50]
 ## Overview
 Most of the Restaurants/Hotels still uses the traditional way of taking orders.
+![Image of Bill book](https://j.gifs.com/zvPxY5.gif)
 
 This Supply Chain is similar to the Ticket workflow in Freshdesk. 
 @snapend
