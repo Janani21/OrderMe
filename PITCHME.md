@@ -1,66 +1,80 @@
----?color=linear-gradient(to right, #c02425, #f0cb35)
-@title[Introduction]
+# Order Me
 
-@snap[west text-25 text-bold text-white]
-GitPitch<br>*The Template*
+`Order Me` is a product for Restaurants/Hotels to manage the food orders.
+
+---
+@title[Overview]
+
+@snap[west span-50]
+## Overview
+Most of the Restaurants/Hotels still uses the traditional way of taking orders.
+
+This Supply Chain is similar to the Ticket workflow in Freshdesk. 
 @snapend
-
-@snap[south-west byline text-white text-06]
-The Fastest Way From Idea To Presentation.
+@snap[east span-50]
+![Image of Freshdesk](https://freshdesk.com/assets/images/freshdesk/bucket/custom/help-desk-customization-89f0176f.svg)
 @snapend
 
 ---
-@title[Slide Markdown]
+@title[Customization]
 
-### Each slide in this presentation is provided as a *template*.
+@snap[west span-50]
+But Being a SaaS product, freshdesk cannot be customized to meet all needs.
+And Building all new website or a product is costly.
 
-<br><br>
-
-@snap[south span-100 text-purple text-05]
-Reuse the *markdown snippet* for any slide in this template within your own @css[text-gold text-bold](PITCHME.md) files.
+@snapend
+@snap[east span-50]
+![Image of Bill book](https://media1.tenor.com/images/62eb0c748702f88829a482eacf3b6e18/tenor.gif)
 @snapend
 
 ---
-@title[Tip! Fullscreen]
+@title[Marketplace Apps]
 
-![TIP](template/img/tip.png)
-<br>
-For the best viewing experience, press F for fullscreen.
-@css[template-note](We recommend using the *SPACE* key to navigate between slides.)
+@snap[west span-50]
+Apps are playing a major role in customizing/enhancing the Freshworks product.
+`Order Me` is one such example. It is build as a Full Page App in Freshdesk to manage the order.
 
----?include=template/md/split-screen/PITCHME.md
 
----?include=template/md/sidebar/PITCHME.md
+@snapend
+@snap[east span-50]
+![Image of Order Me](https://github.com/freshdesk/freshapps_misc/blob/goPro/OrderME/app/order%20me.svg)
+@snapend
+---
+@title[Scope]
 
----?include=template/md/list-content/PITCHME.md
+Similarly Freshdesk can be turned into a super product for companies which has Production chain like Manufacturing industries, Ecommerce business, etc., 
+---
+@title[App Routes]
 
----?include=template/md/boxed-text/PITCHME.md
+@ul[spaced text-white]
+- Selector : Select the role of the user 
+- Customer_login: Signup/Login page for Customer
+- Menu: select items and place order
+- Tracker: track the order
+- Owner: Cook view
+@ulend
 
----?include=template/md/image/PITCHME.md
+---
+@title[Features used]
 
----?include=template/md/sidebox/PITCHME.md
-
----?include=template/md/code-presenting/PITCHME.md
-
----?include=template/md/header-footer/PITCHME.md
-
----?include=template/md/quotation/PITCHME.md
-
----?include=template/md/announcement/PITCHME.md
-
----?include=template/md/about/PITCHME.md
-
----?include=template/md/wrap-up/PITCHME.md
-
----?image=template/img/presenter.jpg
-@title[The Template Docs]
-
-@snap[north-west sign-off]
-### **Now it's @color[#e58537](your) turn.**
-<br>
-#### Quickstart your next slide deck<br>with @size[1.4em](The GitPitch Template).
+@snap[west span-50]
+### Product Functionalities Used
+@ul[spaced text-white]
+- V2 APIs to create/update user and ticket, filter ticket by agent/requester.
+- Dispatcher to auto-assign ticket to group/agent.
+- Custom Ticket Status to match the need.
+@ulend
+@snapend
+@snap[east span-50]
+### Developer platform Features Used
+@ul[spaced text-white]
+- Custom Installation page for collecting company information.
+- 'Full_page_app' placeholder as the website.
+- Few Data APIs(loggedInUser, domainName, etc.,).
+- Request API to create/update tickets, contact.
+- Data persistance to store the user mapping and order details.
+@ulend
 @snapend
 
-@snap[south docslink text-gold span-100]
-For supporting documentation see the [The Template Docs](https://gitpitch.com/docs/the-template)
-@snapend
+---
+@title[Special thanks to Rohit Eddy, Raghuram Periaswamy, Asif Ahmed!!!]
