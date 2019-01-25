@@ -15,7 +15,7 @@ Waiter -> takes order on paper -> Chef
 ---
 @title[Freshdesk]
 @snap[west span-50]
-###  Freshdesk
+###  Using Freshdesk as a Supply Chain
 This Supply Chain is similar to the Ticket workflow in Freshdesk. 
 @snapend
 @snap[east span-50]
@@ -26,7 +26,7 @@ This Supply Chain is similar to the Ticket workflow in Freshdesk.
 @title[Customization]
 
 @snap[west span-50]
-###  Why?
+###  Possible?
 Being a SaaS product, Freshdesk cannot be customized to meet all needs.
 And building a whole new website or a product is costly.
 
@@ -39,7 +39,7 @@ And building a whole new website or a product is costly.
 @title[Marketplace Apps]
 
 @snap[west span-50]
-### How?
+### App power
 Apps play a major role in customizing/enhancing Freshworks products.
 `Order.Me` is one such example. It is a Full Page App in the Freshdesk portal to manage orders.
 
