@@ -39,7 +39,7 @@ And building a whole new website or a product is costly.
 @title[Marketplace Apps]
 
 @snap[west span-50]
-### App power
+### Apps to the rescue
 Apps play a major role in customizing/enhancing Freshworks products.
 `Order.Me` is one such example. It is a Full Page App in the Freshdesk portal to manage orders.
 
@@ -54,7 +54,7 @@ Apps play a major role in customizing/enhancing Freshworks products.
 Similarly, Freshdesk can be turned into a super product for Manufacturing Industries, Ecommerce business, etc., 
 ---
 @title[App Routes]
-Routes
+How we did it?
 @ul
 - Selector Page : To select the user - Visitor or Chef.
 - Visitor Login Page : Signup/Login page for Visitor.
@@ -66,7 +66,7 @@ Routes
 ---
 @title[Product Features used]
 
-Product Functionalities Used
+Product functionalities used
 @ul
 - V2 APIs to create/update user and ticket, filter ticket by agent/requester.
 - Dispatcher to auto-assign ticket to a group & an agent.
@@ -76,7 +76,7 @@ Product Functionalities Used
 ---
 @title[Platform Features used]
 
-Developer platform Features Used
+Developer platform features used
 @ul
 - Custom Installation page for collecting company information.
 - 'Full_page_app' placeholder as the website.
