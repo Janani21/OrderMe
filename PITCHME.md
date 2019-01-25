@@ -6,10 +6,16 @@
 @title[Overview]
 
 @snap[west span-50]
-## Overview
+##  Traditional Ordering
 Most of the Restaurants/Hotels still uses the traditional way of taking orders.
+@snapend
+@snap[east span-50]
 ![Image of Bill book](https://j.gifs.com/zvPxY5.gif)
-
+@snapend
+---
+@title[Freshdesk]
+@snap[west span-50]
+##  Freshdesk
 This Supply Chain is similar to the Ticket workflow in Freshdesk. 
 @snapend
 @snap[east span-50]
