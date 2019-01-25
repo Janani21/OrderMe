@@ -6,7 +6,7 @@ Tired of taking Food Orders on paper. Use `Order.Me`!!
 @title[Overview]
 
 @snap[west span-50]
-##  Traditional Ordering
+### What they usually do?  
 Most of the Restaurants/Hotels still use the traditional way of taking orders which is on paper.
 @snapend
 @snap[east span-50]
@@ -15,7 +15,7 @@ Most of the Restaurants/Hotels still use the traditional way of taking orders wh
 ---
 @title[Freshdesk]
 @snap[west span-50]
-##  Freshdesk
+###  Freshdesk
 This Supply Chain is similar to the Ticket workflow in Freshdesk. 
 @snapend
 @snap[east span-50]
@@ -24,7 +24,7 @@ This Supply Chain is similar to the Ticket workflow in Freshdesk.
 
 ---
 @title[Customization]
-
+###  Why?
 @snap[west span-50]
 Being a SaaS product, Freshdesk cannot be customized to meet all needs.
 And building a whole new website or a product is costly.
@@ -36,7 +36,7 @@ And building a whole new website or a product is costly.
 
 ---
 @title[Marketplace Apps]
-
+### How?
 @snap[west span-50]
 Apps play a major role in customizing/enhancing Freshworks products.
 `Order.Me` is one such example. It is a Full Page App in the Freshdesk portal to manage orders.
@@ -48,7 +48,7 @@ Apps play a major role in customizing/enhancing Freshworks products.
 @snapend
 ---
 @title[Scope]
-
+### Our Vision
 Similarly, Freshdesk can be turned into a super product for Manufacturing Industries, Ecommerce business, etc., 
 ---
 @title[App Routes]
