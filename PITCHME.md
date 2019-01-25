@@ -1,6 +1,8 @@
 ---?color=linear-gradient(to right, #c02425, #f0cb35) @title[OrderMe]
 
-@snap[west text-25 text-bold text-white]![Image of Order Me](https://github.com/Janani21/OrderMe/tree/master/template/img/logo.png) Order Me @snapend
+@snap[west text-25 text-bold text-white]
+![Image of Order Me](https://github.com/Janani21/OrderMe/blob/master/template/img/logo.png) Order Me
+@snapend
 
 @snap[south-west byline text-white text-06] `Order Me` is a product for Restaurants/Hotels to manage the food orders
 ---
