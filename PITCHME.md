@@ -52,7 +52,7 @@ Apps are playing a major role in customizing/enhancing the Freshworks product.
 Similarly Freshdesk can be turned into a super product for companies which has Production chain like Manufacturing industries, Ecommerce business, etc., 
 ---
 @title[App Routes]
-### Routes
+Routes
 @ul
 - Selector : Select the role of the user 
 - Customer_login: Signup/Login page for Customer
@@ -64,7 +64,7 @@ Similarly Freshdesk can be turned into a super product for companies which has P
 ---
 @title[Product Features used]
 
-### Product Functionalities Used
+Product Functionalities Used
 @ul
 - V2 APIs to create/update user and ticket, filter ticket by agent/requester.
 - Dispatcher to auto-assign ticket to group/agent.
@@ -74,7 +74,7 @@ Similarly Freshdesk can be turned into a super product for companies which has P
 ---
 @title[Platform Features used]
 
-### Developer platform Features Used
+Developer platform Features Used
 @ul
 - Custom Installation page for collecting company information.
 - 'Full_page_app' placeholder as the website.
