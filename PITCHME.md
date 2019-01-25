@@ -53,7 +53,7 @@ Similarly Freshdesk can be turned into a super product for companies which has P
 ---
 @title[App Routes]
 
-@ul[spaced text-white]
+@ul
 - Selector : Select the role of the user 
 - Customer_login: Signup/Login page for Customer
 - Menu: select items and place order
@@ -66,7 +66,7 @@ Similarly Freshdesk can be turned into a super product for companies which has P
 
 @snap[west span-50]
 ### Product Functionalities Used
-@ul[spaced text-white]
+@ul
 - V2 APIs to create/update user and ticket, filter ticket by agent/requester.
 - Dispatcher to auto-assign ticket to group/agent.
 - Custom Ticket Status to match the need.
@@ -74,7 +74,7 @@ Similarly Freshdesk can be turned into a super product for companies which has P
 @snapend
 @snap[east span-50]
 ### Developer platform Features Used
-@ul[spaced text-white]
+@ul
 - Custom Installation page for collecting company information.
 - 'Full_page_app' placeholder as the website.
 - Few Data APIs(loggedInUser, domainName, etc.,).
@@ -84,4 +84,5 @@ Similarly Freshdesk can be turned into a super product for companies which has P
 @snapend
 
 ---
-@title[Special thanks to Rohit Eddy, Raghuram Periaswamy, Asif Ahmed!!!]
+@title[Thank note]
+####Special thanks to Rohit Eddy, Raghuram Periaswamy, Asif Ahmed, Satwik Hebbar AND Developer Platform Team!!!
